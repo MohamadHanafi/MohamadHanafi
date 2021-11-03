@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ## 📖 About Me
 <p align="center">
-  My name is <a href="https://MohamadHanafi.netlify.app"><strong>Mohamad Hanafi</strong></a>. A full-stack developer specialized in **MERN** technology. I Build fast and responsive web applications that can work on any screen. I am fully focused on solving problems using the latest technologies and tools. I mainly work with MongoDB, ExpressJS, NodeJS, and ReactJS. Additionally, I have experience in SQL, Python, flask C, NextJS, and many CSS libraries like Bootstrap, Semantic UI, and Tailwind CSS. I like working in teams and I have developed excellent communication skills over my years as a teaching assistant.
+  My name is <a href="https://MohamadHanafi.netlify.app"><strong>Mohamad Hanafi</strong></a>. A full-stack developer specialized in <strong>MERN</strong> technology. I Build fast and responsive web applications that can work on any screen. I am fully focused on solving problems using the latest technologies and tools. I mainly work with MongoDB, ExpressJS, NodeJS, and ReactJS. Additionally, I have experience in SQL, Python, flask C, NextJS, and many CSS libraries like Bootstrap, Semantic UI, and Tailwind CSS. I like working in teams and I have developed excellent communication skills over my years as a teaching assistant.
 </p>
 
 ## 🔧 Tools & Technologies 
